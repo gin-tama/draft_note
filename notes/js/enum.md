@@ -1,5 +1,5 @@
 ## Setup Enum
-imlement enum in javascript
+implement enum in javascript
 
 #### sample code:
 
